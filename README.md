@@ -92,6 +92,8 @@ Take a moment to peruse the [documentation](https://help.syncfusion.com/wpf/data
 
 Please refer this [link](https://www.syncfusion.com/wpf-ui-controls/datagrid) to know about the essential features of Syncfusion WPF DataGrid.
 
+KB article - [How to reorder rows in wpf datagrid (row drag and drop)?](https://www.syncfusion.com/kb/12352/how-to-drag-and-drop-the-rows-in-wpf-datagrid-sfdatagrid)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
 
